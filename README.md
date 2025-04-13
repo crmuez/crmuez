@@ -56,3 +56,24 @@ My technical journey is focused on providing solid and efficient support in IT e
 **Documentation & Communication**: I understand the value of clear, up-to-date documentation and communication within support teams and with users — both crucial for delivering a high-quality service.
 
 **Customer-Oriented Mindset**: My experience in event coordination and volunteering has strengthened my empathy, patience, and ability to remain calm under pressure — qualities I now bring to technical support roles.
+
+## 🔧 Projects Showcase
+This repository showcases my journey in software development, focusing on various technical challenges and projects that have helped me grow in programming, problem-solving, and technical skills.
+
+
+🕹️ **[cub3d](https://github.com/crmuez/cub3d)**  
+A 3D game engine built using C and the MLX42 library, based on raycasting to simulate a 3D maze exploration. Still in progress, but with core functionality already working.
+
+🖥️ **[pipex](https://github.com/crmuez/pipex)**  
+A project that implements a simple Unix pipe system in C. The program mimics the use of pipes for inter-process communication, allowing users to chain multiple commands.
+
+🎮 **[philosophers](https://github.com/crmuez/philos)**  
+A multi-threaded program based on the "Dining Philosophers" problem, focusing on synchronization and managing shared resources using threads and mutexes.
+
+🛸 **[so_long](https://github.com/crmuez/so_long)**  
+A 2D game built with C and the MLX42 library, where the player navigates a character through a map collecting objects and avoiding obstacles.
+
+🔀 **[push_swap](https://github.com/crmuez/push_swap)**  
+A sorting algorithm that minimizes the number of operations to sort a stack of integers, utilizing a cost-based algorithm to optimize performance.
+
+---
