@@ -48,7 +48,11 @@ Always eager to keep learning and growing within the IT world.
 My technical journey is focused on providing solid and efficient support in IT environments. Here are some of the areas I'm actively developing:
 
 **Incident Management**: I’m gaining experience in identifying, reporting, and documenting incidents efficiently. I understand the importance of prioritization and escalation, and I’m learning how to resolve first-level issues and when to involve higher-level support.
+
 **Monitoring & Troubleshooting**: I’m familiar with system monitoring practices and learning to detect potential issues before they affect users. I’m developing structured troubleshooting approaches to respond quickly and accurately.
+
 **Virtual Environments & Remote Access**: I'm working with platforms like Citrix and exploring virtual desktops and remote infrastructure, learning how to operate within them and support end-users effectively.
+
 **Documentation & Communication**: I understand the value of clear, up-to-date documentation and communication within support teams and with users — both crucial for delivering a high-quality service.
+
 **Customer-Oriented Mindset**: My experience in event coordination and volunteering has strengthened my empathy, patience, and ability to remain calm under pressure — qualities I now bring to technical support roles.
